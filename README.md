@@ -8,4 +8,4 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 This application is for candidates who want to find jobs and recruiters who want to hire candidates for some specific role.
-In this application I have used clerk and supabase for user authentication and database management.
+In this application I have used clerk and supabase for user authentication and database management with unteractive UI
