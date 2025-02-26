@@ -1,4 +1,4 @@
-# Introduction
+# Full stack Job Portal
 This application is for candidates who want to find jobs and recruiters who want to hire candidates for some specific role. 
 I have used clerk and supabase in this application for user authentication and database management with interactive UI. Live link will be provided soon!!
 
