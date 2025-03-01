@@ -5,7 +5,7 @@ I have used Clerk and Supabase in this application for user authentication and d
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-Sign in to avail yourself of the services of Supabase and Clerk.
+Please sign in to use the services of Supabase and Clerk.
 
 Currently, two official plugins are available:
 
